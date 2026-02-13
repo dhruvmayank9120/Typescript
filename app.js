@@ -15,5 +15,5 @@ isExist = false;
 let bignumber = 123456789362123n;
 let names = "Mohan";
 let honey = 20;
-//to exit ctrl + c
+// to enter watch mode-> ctrl+c , to exit watch mode-> ctrl + c
 //# sourceMappingURL=app.js.map
